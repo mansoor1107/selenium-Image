@@ -1,0 +1,9 @@
+# Usage:
+#   docker-compose pull selenium
+version: '2.1'
+
+services:
+  #--------------#
+  selenium:
+    image: "elgalu/selenium"
+
